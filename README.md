@@ -33,4 +33,4 @@
       <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VScode" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit617&show_icons=true&locale=en&layout=compact" alt="" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit617&show_icons=true&locale=en&layout=compact" alt="" /></p>
